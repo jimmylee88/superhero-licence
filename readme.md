@@ -1,7 +1,7 @@
-# gov-uk-prototype
+# Superhero Licence
 ## GOV.UK prototyping kit
 
-Hi, I created this little example of a form flow using components from the GOV.UK Protype Kit.
+Hi, I wanted to try out the GOV.UK Protype Kit. So I followed their basic tutorial and created this little example of a form flow using components from the GOV.UK design system.
 It's fairly straightforward to follow along. You just need to have Node.js installed and run it from your Terminal.
 
 ### Instructions to run:
