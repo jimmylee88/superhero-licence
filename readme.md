@@ -17,7 +17,8 @@ http://localhost:3000/
 To quit the prototype kit:
 Press `ctrl` and `c` keys together in the terminal.
 
----
+<img src="./Superhero_reg_2.png" width="540" alt="Screenshot of the Superhero licence prototype using the gov.uk kit">
+
 ### Prototype
 Try out making the basic gov.uk prototype yourself.
 https://prototype-kit.service.gov.uk/docs/create-new-prototype 
